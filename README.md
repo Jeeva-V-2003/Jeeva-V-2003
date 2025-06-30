@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=jeeva-v-2003&label=Profile%20views&color=blueviolet&style=flat" alt="Jeeva's profile views"/>
 </p>
 
----
+
 
 💼 What I Do
 
@@ -16,14 +16,15 @@
 - 🔗 Integrate smart agents and LLMs with real-world data (OpenAI, Firecrawl, Mistral)  
 - 🧪 Tinker with FOSS tools and research-grade AI for Tamil translation (LoRA, Mistral, fine-tuning)
 
+
+
 🛠️ Core Stack
 
-Languages: Python · Java · JavaScript · PHP · SQL
-Libraries: pandas · dedupe · fuzzywuzzy · requests · selenium · OpenAI API
-Databases: MySQL · MongoDB · PostgreSQL · BigQuery
-Tools: Git · Docker · Ubuntu · LM Studio · Firecrawl
-Dev Habits: API-first · Clean logic · Shell scripting · Dark terminal only ⚫
-
+- **Languages**: Python, Java, JavaScript, PHP, SQL  
+- **Libraries**: pandas, dedupe, fuzzywuzzy, requests, selenium, OpenAI API  
+- **Databases**: MySQL, MongoDB, PostgreSQL, Google BigQuery  
+- **Tools & DevOps**: Git, Docker, Ubuntu, LM Studio, Firecrawl  
+- **Dev Habits**: API-first, Clean logic, Shell scripting, Dark terminal only ⚫
 
 
 
