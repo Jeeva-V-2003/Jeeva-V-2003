@@ -49,7 +49,7 @@
 
 🌐 Let’s Connect
 
-Reach me for project or just deep tech chats.
+Reach me for projects or just deep tech chats.
 
 <p align="center">
   <a href="mailto:jeevavincent.2003@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white"/></a>
